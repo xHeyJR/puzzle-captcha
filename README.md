@@ -1,5 +1,5 @@
-# Puzzle Captcha Resolver
-Douyin and TikTok puzzle captcha resolver with opencv
+# Puzzle Captcha solver
+TikTok puzzle captcha resolver with opencv
 
 
 #### Dependencies
@@ -10,7 +10,7 @@ Douyin and TikTok puzzle captcha resolver with opencv
     pip3 install -r requirements.txt
     
 
-## Usage
+## Uso
 
 Note: This library currently supports only 404 px resized screen width. It can be changed optionally in future versions.
 
